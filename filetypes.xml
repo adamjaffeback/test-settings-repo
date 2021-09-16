@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="IntelliJ IDEA Global Settings" type="AUTO_DETECTED" />
+      <mapping ext="js" type="JavaScript" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern="Intercom backend" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="ThreadDetailsMyDetailsTabView.js" approved="true" type="TypeScript JSX" />
+    </extensionMap>
+  </component>
+</application>

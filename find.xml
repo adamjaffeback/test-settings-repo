@@ -1,0 +1,34 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Default Changelist" />
+    <option name="defaultScopeName" value="Default Changelist" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.js, !*.test.js" />
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.ng</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.html</mask>
+    <mask>*.ats</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.scss, *.test.js</mask>
+    <mask>*.js, *.scss, *.test.js, *.html</mask>
+    <mask>*.js, *.scss, *.test.js</mask>
+    <mask>*.js, *.scss</mask>
+    <mask>*.stories.js</mask>
+    <mask>*test.js</mask>
+    <mask>*.js</mask>
+    <mask>*.js,*.scss</mask>
+    <mask>*.test.js</mask>
+    <mask>*.js, *.test.js</mask>
+    <mask>*.js, !*.test.js</mask>
+  </component>
+</application>

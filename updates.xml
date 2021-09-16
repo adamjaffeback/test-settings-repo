@@ -1,0 +1,10 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="LAST_BUILD_CHECKED" value="WS-211.7628.25" />
+    <option name="LAST_TIME_CHECKED" value="1631659355196" />
+    <pluginHosts>
+      <item value="https://system.netsuite.com/download/suitecloud-sdk/ideplugin/webstorm/latest/updatePlugins.xml" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>
