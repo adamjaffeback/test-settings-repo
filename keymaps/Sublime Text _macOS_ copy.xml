@@ -1,0 +1,47 @@
+<keymap version="1" name="Sublime Text (macOS) copy" parent="Sublime Text (Mac OS X)">
+  <action id="Arrangement.Rule.Add" />
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="Debug" />
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="EditorCopy" />
+  <action id="FileChooser.LightEditGotoOpenedFile">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="FileChooser.NewFolder" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Github.PullRequest.Zip.Commits.Toggle">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="shift meta button1" />
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="Graph.ApplyCurrentLayout" />
+  <action id="NewElement" />
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="NextDiff" />
+  <action id="ProblemsView.CopyProblemDescription" />
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="RemoteHost.NewRemoteItem" />
+  <action id="StepInto" />
+  <action id="Terminal.CopySelectedText" />
+  <action id="Uml.ExpandNodes" />
+  <action id="UsageGrouping.DirectoryStructure" />
+  <action id="Vcs.Push" />
+  <action id="XDebugger.CopyValue" />
+</keymap>
