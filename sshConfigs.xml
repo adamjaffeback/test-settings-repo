@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="mogor.development.int.routable.biz" id="5ebdce39-3739-41f6-95d9-39303469d340" keyPath="$USER_HOME$/.ssh/id_rsa_routable_megabox" port="22" nameFormat="DESCRIPTIVE" username="adam" />
+    </configs>
+  </component>
+</application>
